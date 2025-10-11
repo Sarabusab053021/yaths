@@ -4,8 +4,11 @@
 Ultra-lightweight HTTP file server for directory browsing and local development
 
 Size: 37kb (Musl+strip+upx)
+
 Speed: 12x faster than Python's http.server 
+
 Usecase: Testing, development, quick file sharing, embedded, minimal docker
+
 Features: 
 - Directory browsing with minimal/modern CSS styling
 - Mobile friendly
