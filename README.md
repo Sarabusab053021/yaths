@@ -1,6 +1,7 @@
 
 
-# YaTHS - Yet another Tiny HTTP-Server [![Docker Image Size](https://img.shields.io/docker/image-size/alsca183/yaths)](https://hub.docker.com/r/alsca183/yaths) [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+# YaTHS - Yet another Tiny HTTP-Server
+[![Docker Image Size](https://img.shields.io/docker/image-size/alsca183/yaths)](https://hub.docker.com/r/alsca183/yaths) [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 Ultra-lightweight HTTP file server for directory browsing and local development
 
 Size: 37kb (Musl+strip+upx)
