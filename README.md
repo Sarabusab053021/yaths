@@ -114,12 +114,12 @@ YaTHS vs python http-server
 
 ## Runtime example:
 
-VmSize: 240kB - Total virtual memory
-VmRSS: 0kB - Physical memory
-VmData: 8kB - Data segment
-VmStk: 136kB - Stack space allocated
-VmExe: 40kB - Executable code
-VmLib: 24kB - Musl libc
+- VmSize: 240kB - Total virtual memory
+- VmRSS: 0kB - Physical memory
+- VmData: 8kB - Data segment
+- VmStk: 136kB - Stack space allocated
+- VmExe: 40kB - Executable code
+- VmLib: 24kB - Musl libc
 
 ## Docker
 
