@@ -41,7 +41,7 @@ sudo apt install musl-tools upx  # Debian/Ubuntu
 # or
 sudo dnf install musl-gcc upx    # Fedora
 
-git clone https://github.com/yourusername/yaths
+git clone https://github.com/al-sca/yaths
 cd yaths
 musl-gcc -static -Os -s -o yaths yaths.c
 strip yaths
